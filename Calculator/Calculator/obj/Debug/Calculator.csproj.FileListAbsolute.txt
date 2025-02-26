@@ -1,0 +1,13 @@
+C:\Users\e_shabalina\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\e_shabalina\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\e_shabalina\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\e_shabalina\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\e_shabalina\Desktop\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\e_shabalina\Desktop\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\e_shabalina\Desktop\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\e_shabalina\Desktop\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\e_shabalina\Desktop\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\e_shabalina\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\e_shabalina\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\e_shabalina\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\e_shabalina\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
